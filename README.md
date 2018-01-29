@@ -1,2 +1,0 @@
-# RoyalClubApp
-Royal Agent App
